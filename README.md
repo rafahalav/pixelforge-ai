@@ -181,6 +181,10 @@ With the virtual environment activated:
 ```bash
 streamlit run app.py
 ```
+Or
+```bash
+./run.sh
+```
 
 Streamlit will start the application and provide a local URL to access the PixelForge AI interface through your browser.
 
