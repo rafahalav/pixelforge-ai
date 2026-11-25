@@ -69,6 +69,7 @@ pixelforge-ai/
 ├── .gitignore
 ├── README.md
 ├── LICENSE
+├── run.sh
 │
 ├── assets/
 │   ├── pixelforge-banner.png
